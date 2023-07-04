@@ -10,7 +10,7 @@ const Navbar = () => {
                     <Link to="/">
                         <button className="btn btn-outline-dark me-2" type="button">Contacts</button>
                     </Link>
-                    <Link to="/Demo">
+                    <Link to="/CreateContact">
                         <button className="btn btn-outline-dark me-2" type="button">Create contact</button>
                     </Link>
                 </form>
